@@ -1,0 +1,42 @@
+{
+  "bbc":{
+	"rss": "http://feeds.bbci.co.uk/news/business/rss.xml",
+	"link": "http://bbc.com/"
+	},
+	
+  "cnn": {
+	"rss": "http://rss.cnn.com/rss/money_news_international.rss",
+    "link": "http://edition.cnn.com/"
+    },
+
+  "Aljajeera": {
+	"rss": "https://www.aljazeera.com/xml/rss/all.xml",
+    "link": "https://www.aljazeera.com/ajimpact/"
+  },
+
+ "reuters":{
+	"rss": "http://feeds.reuters.com/Reuters/worldNews",
+	"link": "https://in.reuters.com/news/world"
+	},
+	
+	"reuters":{
+	"rss": "http://feeds.reuters.com/Reuters/worldNews",
+	"link": "https://in.reuters.com/news/world"
+	},  
+  
+  "foxnews": {
+	"rss": "http://feeds.foxnews.com/foxnews/business",
+    "link": "http://www.foxnews.com/"
+  },
+  
+  "washingtonpost": {
+    "rss": "http://feeds.washingtonpost.com/rss/world",
+    "link": "https://www.washingtonpost.com/"
+  },
+  
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/international"
+  }
+  
+}
